@@ -1,0 +1,6 @@
+{
+  "name": "Apex Drift",
+  "description": "High-octane car racing game featuring realistic physics, customizable vehicles, and competitive online multiplayer tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
